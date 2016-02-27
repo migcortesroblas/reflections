@@ -15,3 +15,11 @@ Fork when you want to clone somebody's repository, clone when you want to copy s
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 That you don't get outdated with code.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I should send my code by email or share it with dropbox, then wait for the comments of each one individually... 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are working colaboratively it is better to make separate branches and pull requests rather than updating master on your own,
